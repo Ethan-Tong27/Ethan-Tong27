@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey there 👋
 
+I'm Ethan Tong, a student based in NYC
+
+I create whatever catches my attention.
+
+My main focuses are hardware programming and creating fun gadgets.
 <!--
 **Ethan-Tong27/Ethan-Tong27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
